@@ -1,2 +1,2 @@
 # Machine-Learning-Projects-for-Mobile-Applications
-Machine Learning Projects for Mobile Applications, By Packt
+Machine Learning Projects for Mobile Applications, published by Packt
