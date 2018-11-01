@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- FaceGraphic colors -->
+    <color name="eyeWhite">#FFFACD</color>
+    <color name="eyelid">#B0E0E6</color>
+    <color name="iris">#8B4513</color>
+    <color name="control_background">#cc4285f4</color>
+    <color name="eyeOutline">#000000</color>
+    <color name="overlayHint">#7FFF00</color>
+</resources>
