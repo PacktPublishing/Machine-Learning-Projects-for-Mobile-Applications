@@ -1,0 +1,20 @@
+**Source Link**
+
+https://github.com/tensorflow/models/blob/master/slim/nets/mobilenet_v1.md
+
+**Caffe Version**
+
+Converted from a Caffe version of the original MobileNet model.
+https://github.com/shicai/MobileNet-Caffe
+
+**Authors** 
+
+Original Paper Title: MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
+Authors: Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam
+
+Caffe version: Shicai Yang
+
+**License**
+
+Apache 2.0 
+http://www.apache.org/licenses/LICENSE-2.0
