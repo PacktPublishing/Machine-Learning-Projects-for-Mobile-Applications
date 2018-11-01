@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]

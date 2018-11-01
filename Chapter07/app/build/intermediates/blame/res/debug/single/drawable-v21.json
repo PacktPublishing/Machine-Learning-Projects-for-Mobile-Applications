@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/a1d4adca68ef4cff0218a21148573cb04eba4147/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/a1d4adca68ef4cff0218a21148573cb04eba4147/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/a1d4adca68ef4cff0218a21148573cb04eba4147/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/a1d4adca68ef4cff0218a21148573cb04eba4147/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

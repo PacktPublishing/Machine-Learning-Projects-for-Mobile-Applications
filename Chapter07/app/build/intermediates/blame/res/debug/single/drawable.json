@@ -1,0 +1,546 @@
+[
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_adjust_24dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_adjust_24dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_contrast.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_contrast.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_track.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_compare_arrows_24dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_compare_arrows_24dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_dialog_close_dark.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_dialog_close_dark.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_mute.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_clear_24dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_clear_24dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_button_light.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_button_light.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/8aae88844d38cadcbaa1ea40f27344da7d5fadd8/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_pause.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_tune_24dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_tune_24dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/8aae88844d38cadcbaa1ea40f27344da7d5fadd8/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_button_connected_light.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_button_connected_light.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_people_24dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_people_24dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_next.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_thumb.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_camera_48dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_camera_48dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_light.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_button_dark.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_button_dark.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_group_collapse.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_group_collapse.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/8aae88844d38cadcbaa1ea40f27344da7d5fadd8/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_media_pause_dark.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_media_pause_dark.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/a1d4adca68ef4cff0218a21148573cb04eba4147/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/8aae88844d38cadcbaa1ea40f27344da7d5fadd8/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward10.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_share_24dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_share_24dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/a1d4adca68ef4cff0218a21148573cb04eba4147/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/8aae88844d38cadcbaa1ea40f27344da7d5fadd8/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_swap_horiz_48dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_swap_horiz_48dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/8aae88844d38cadcbaa1ea40f27344da7d5fadd8/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_photo_library_48dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_photo_library_48dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_button_connecting_light.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_button_connecting_light.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_more_vert_24dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_more_vert_24dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_forward30.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_dark.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/8aae88844d38cadcbaa1ea40f27344da7d5fadd8/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_button_connecting_dark.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_button_connecting_dark.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_play.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_button_connected_dark.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_button_connected_dark.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_pause.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/8aae88844d38cadcbaa1ea40f27344da7d5fadd8/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/7b3d40d2ebd99ed4ceb40e18315d92040c9f6596/output/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_edit_white_24dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_edit_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_brightness_high_24dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_brightness_high_24dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_rotate_90_degrees_ccw_24dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_rotate_90_degrees_ccw_24dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_compare_24dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_compare_24dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_face_48dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_face_48dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_stop.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/water_stamp.png",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/water_stamp.png"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward30.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/8aae88844d38cadcbaa1ea40f27344da7d5fadd8/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_play.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_send_24dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_send_24dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/a1d4adca68ef4cff0218a21148573cb04eba4147/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_prev.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_small_icon.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_media_play_dark.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_media_play_dark.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/8aae88844d38cadcbaa1ea40f27344da7d5fadd8/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_media_pause_light.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_media_pause_light.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play_large.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind30.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_stop_live_stream.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_progress_drawable.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_rewind30.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause_large.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_closed_caption.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_check_24dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_check_24dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_save_24dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_save_24dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_group_expand.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_group_expand.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/8aae88844d38cadcbaa1ea40f27344da7d5fadd8/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_media_play_light.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_media_play_light.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/8aae88844d38cadcbaa1ea40f27344da7d5fadd8/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop_large.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/photo_place.png",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/photo_place.png"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/8aae88844d38cadcbaa1ea40f27344da7d5fadd8/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_disconnect.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_vol_type_audiotrack_light.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_vol_type_audiotrack_light.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind10.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_dialog_close_light.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_dialog_close_light.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_vol_type_audiotrack_dark.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_vol_type_audiotrack_dark.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_forward30.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_looks_24dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_looks_24dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/8aae88844d38cadcbaa1ea40f27344da7d5fadd8/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_prev.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_rewind30.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_mute.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_edit_24dp.xml",
+        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_edit_24dp.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_gradient_light.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_mini_controller_gradient_light.xml"
+    }
+]

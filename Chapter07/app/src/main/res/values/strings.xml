@@ -1,0 +1,18 @@
+<resources>
+    <string name="action_settings">Help</string>
+
+    <string name="err_permission">Missing permission</string>
+    <string name="err_insufficient_faces">At least two faces are needed.</string>
+    <string name="err_no_image_present">Missing photo</string>
+    <string name="err_could_not_swap_x">Could not swap photo:</string>
+    <string name="err_could_not_swap">Check quality</string>
+    <string name="camera_info">Camera</string>
+    <string name="photo_library_info">Photo library</string>
+    <string name="face_tab">Tab for photo</string>
+    <string name="swap_button_info">Swap faces button. Appears when both tabs contain photos.</string>
+    <string name="switch_button_info">Switch photo 1 and 2.</string>
+    <string name="swap_multi_info">Swap within a photo.</string>
+
+
+
+</resources>

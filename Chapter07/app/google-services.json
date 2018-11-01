@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "216287306127",
+    "firebase_url": "https://faceswapper-8f07b.firebaseio.com",
+    "project_id": "faceswapper-8f07b",
+    "storage_bucket": "faceswapper-8f07b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216287306127:android:0a417288a93f292a",
+        "android_client_info": {
+          "package_name": "com.mlmobileapps.faceswapper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216287306127-p5sp4gmfl3r8r2ontc0k032jtnearfao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaQw2UAKRDZrHiVJTVEoGkznZXFhMnsHU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

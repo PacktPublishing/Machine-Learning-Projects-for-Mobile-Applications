@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/0b2d76c0f7f9a6dc76a0c5c9928430e15847e20a/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/0b2d76c0f7f9a6dc76a0c5c9928430e15847e20a/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/0b2d76c0f7f9a6dc76a0c5c9928430e15847e20a/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

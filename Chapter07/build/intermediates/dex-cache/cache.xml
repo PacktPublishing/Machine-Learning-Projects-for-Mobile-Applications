@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/5d4cb9e14f4eedaef93e09ca7d9a07a9d1a1bcc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_39fab49a1ff4dd425d8a074e99d522f6d2aed305.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/3b70500099d73b9d9cdb9faca4832e080106efef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_56412b56a69c6be11ef9b2539e6c5ca378d58a4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/a1d4adca68ef4cff0218a21148573cb04eba4147/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_6c6a40605c699ed6e1e65b9379d5d8cfc19d41fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/a1aa8a858430f7657f4a7d2ac0f942c2c7e6ee19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_779a99f7bcf5773dd26ca3d73ef0704dbceecf56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/8aae88844d38cadcbaa1ea40f27344da7d5fadd8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_610fde268bf10fdc8e4ddb0c5a75fcd5c8d88e10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/d0597d2f3509d9a0f0e734241dc89661534fb3f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_7f2f4bfaa0aa5ace9d6621a14bc35a495860ff93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/8f435bfef69c0cf365c9ce695a989cb8a5620a19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_10507e0a463e25ad23dbdfcf625bcbae55d41022.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/openCVLibrary310/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ae699821332752c643f4df7e1e7a1b29891a4169">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_c214757bb47be081acf56eadc7b1af7a84ef1180/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/536f5096a3e7b8c49773beb11ae5758fd58d5d8a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_6d2f471713856d492746c00d3ea474be060be2e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/9a92dc101ce29a21d591dd7675ccf7e2c19ca5d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_4cf8c48eb309242bdc9906f0f9e603ea715ad914.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/945f4781deb50a7aa44237badbf8c9b2b0d970e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_c2e18f2b003807050519bb86cf4d1bc7cc0e5f85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/openCVLibrary310/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ae699821332752c643f4df7e1e7a1b29891a4169">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_c214757bb47be081acf56eadc7b1af7a84ef1180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/47ccbd1c88fa16943df64d5df7c1aad7b97fc873/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_f040711a45420c3fd4f69fa7699150e6a45faf4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/d3d08651a5cd20493920439f31e90d9177752a97/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_7429d77ac22dddd15326ba5346f62ee6a84ba0fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/e8024371785a96845d6e3a24bd4ef804ab02b492/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_275e97a6357b4d3b9c005f2d282bcc39cb2a655d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/9400004cf1044fd76bcd1c46bb277f5ded9f1694/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_13967f8f661b17d63bffed5e48a6b1a754d8efe9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karthikeyan/Downloads/bookFaceSwap_Android-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7c1575b5480492048290d8a9fe317cbb6c8bf1dd">
+        <dex dex="/Users/karthikeyan/Downloads/bookFaceSwap_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1a2f68c5bf76c7b5988aab195174376b312514b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/6298ac65535431d970cddfcf541d78cbaaab2412/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_360def613f7382babe563778009b733c2254bacf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/f694c9fdb7753b0a658da6d57da1dadf04143db6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_72d54936461629d6e59209f768c643c61820091b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/0aa33aea6a9e0f00561a57505184495d171accde/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_4412ec4c99545f761d7310d31f8a200d2e15e8d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/809900a630fdc1462d0ca85dc69dc9fe00b5ddff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_1c89f89c6ade4c4314d87eab3af208a42fb8470d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/f3f836f7ff252f2db2f69afd558de0d8be82f2c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_c409ca678e932fa9c11ad51baa85a33691da93a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/fb390599c3c29854f0e55afae63d6756d7e23a5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_668946ca4d98434696f961dbdec1706707049975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/289c0cf523837a742cb9b0ca99a3460353d80877/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_6f114e99d63226d7fc9e4a5ede1c8ead20856447.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/e25b0430f10adee5ea5be534886263c6b27c2e61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_bf5e337aaff05a03fa8b0e69fcf512db220136a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/8debe3bc68feb2f02593b57b78612c061de81c6c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_d2acc8f34c606e5136fc4dabaf9ef2a38e0b1da2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_ac04553a4c89c2480f638e56eef26ab283f45056.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/b60d16fda61d901ad71de2fb4abe28f6c9328e8b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_2e009d73e1e512dd4b53c875ea09d967408d7ed1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/cc4037926ca021ab0858fa992cdbad3fecdb09be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_1ca4a5e2616a1cdb0410450d09f9d1d709e74e9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/53c5a7f691ef016cfd61a014c7cfe9a3d23f724b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_c84c854367976297d171bad44ec715bdcd78feaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/2d94dea02a173d907ee69f0e323be6e153b98845/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_7c126e7c8054295867d2b3cfb8812d5cea297968.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/612d5dcab96fb6346cd93e617456f9f10615a1fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_54b31a42629c7e495d1454a4eda029edd4dd7e69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/fdf0fb74dcf2bdb4e4a8c69f9195a0ed4b752f0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_d6eab2eb1e0e3b60a1f95a205c94007ad808ddd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/70dc8b9007cf7859f8c1ec321f69a3ab7a79b6b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_ec3cd0d626ad25cab1ca36f794703960abe2a62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/d45d62e6d2f9ed377a180c88a77b0ac41668dd0f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_acefa30013955c0a6cf299c629602bfc108e04c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/7d802ee08572dd5529e1dbdc90c9b0220187931b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_e8983c8d95f6e4ac4a2e93fbc2177701a7c96e2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/5b82d4352af7331c691af7756263ad984ac57166/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_bd5758f6a5ce285ecd2d457ecd7debda3a3dbc8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/6e444cd50f895130562a0687ab13198e983bdeca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_f7193d3906f7d20fbf0c0b808401a336f23c6bfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/bef05a2155358f842566ce0587983ce1634ef66e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_0111ed86ab7bf68fe4de751d0037229463c215b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/afbfd9f4f62b2d27d2dcbdaf167ee763202f920c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_32e9bbc3a0880ad7c7f11d307b58aaead2322935.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/71f4789abd3c8fa4b6b3a472bcac897d58c96fc7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_c6dacef52677ee0a91915706b92001b3ae7b08e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/2def8e247b84c88dc169f9f61d12f046bc6f3c4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_506d342c61b29e77f7b9823e2608f5bd91bfedea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/d96d0d9381eed02eadb5a4a3b020b912a57b6a08/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_094ad4cfdc719f451bc9a7b7d0474f6141b90efd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/a2b411026ed126e533a7bd2ea50856a45838a69f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_a6a05a10a91a3a596ae318d6e022b699dcc2116c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/f45c5c6a0117be46fd766765ccf10d3abe8ed298/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_3e83ff530d1e8cc2dd04bf7ef25ac172dc6c7101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/61b7fe45a20b17d2025b53f49c218802be6c0dcc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_f5bdeea676a487d8ca6dbea80d4c70fbb97d3cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/d282ad7940d8857abf43b1063734873aaa950c65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_771e3899c25d1531f38976deebcdff0b560733f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/89cd12b9081cd5c1dfee78a260d31a836ec1d4f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_929d0f5ba6701122ad648638f2c11fc826fd27d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/0e15e519d03c1ea811bc3566a26280d816fdab46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_df8e667101f3cc9f27343a38ec26bfdc3d99c390.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/e502e2d1c1623eb314d7b9e1e500b29f2bde0c48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_99193776a1739a22815867e3f1f948616b5f3699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/362d24e3a16349cf352858010ee2e1dba84b2adb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_47ab18b1d2e4382a551e8b70dece0ca593a7c406.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_24fc135db4a354aba957cf6408a756bcf2960478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/34c5072ee1db7871774293d13d51149062c4fdbe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_da6737eaa4061346831e78f42f646074d5927de1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/ddb055582407d4cccb24238a2ddb07c66058ca83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_83c3cb8b28a9c8c6d4833a2f1f630ba4a373913b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_d6dc0ce78bdc8e4e1b2cbb2ce03cb82b8bf83ebf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/f28d8b13e37522f2942b2ec08d0d9ab0b9fee4cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_93439ee43c85bf78ba4e4e1af88dc069953e3c29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_f5918253159a0fad831816d64d68f67c1521e41f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/e18b0e5f8903e39914caa7583b1c5258fbd236f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_f79cfcf04796e7cd5dbbba976197666621b8b803.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/aafd811eada304869089b005dd36d96f7c4b270d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_f506d2ff77d52a07e70ba0957b38e02b299fdfc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/d4a2736badb72094d16cf466ab7af3d58cc0d7f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_63ceaf982efc2f79a78b8dada4861026c93a3b3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/61495e8eac0b46c09c687a284e7fe6c8b878b84a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_de837ff07afb5c3ee770fe4c6aee8b8507db2fa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_c8935ba3f86653e831ed8312f9425d3104aa47ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/66b8d598e455e5e44c3a3a3c5b56f79ea4342e1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_2343a350f7f1e6c1ca85e5d8cb101e005142c3f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/ebb50ae7e61b03aa68e3c3ee437c6ed95e4e6557/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_67a976c00fa62a3f04174785d59c19202e4595f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/414cc6238ed633df023f908ed24ca2745b089358/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_457b3f223bd15d8406f5c16b6fdc5a4e68803378.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/0b2d76c0f7f9a6dc76a0c5c9928430e15847e20a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_9bc181f18a43623f68b263a29c0dd532b435b65f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/7b3d40d2ebd99ed4ceb40e18315d92040c9f6596/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_046bab22e4b99920d1b98efb644637fe872b664c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/d1e51bec22f5b607ec3709523c2cd879808603de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_78f6d4981cad60b96798c82cf13bb56a372b937b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/734104fab5e9e61b17b3893362cb772391e9bab3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_87417b8ab3de871bbcdef323f68383d69335ffcc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karthikeyan/Downloads/bookFaceSwap_Android-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/karthikeyan/Downloads/bookFaceSwap_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_089ea081f4af6ca35e041254a760fc3798f322ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/cc88e2266f79e61494a4dd3f9e0cfb6d9efaf680/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_7dc72af07d0f290d857bc4ba423a0fd35ad5e797.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/1f95f7c1b863e8ad1e2cc50523288c89dd6188f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_9980d3f562319dd77985ca3b55b3309a0ffc0cc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/karthikeyan/.android/build-cache/bc35ea55d22c4a92d3f2176a7901775a084b25c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/pre-dexed/debug/classes_6aee378d35b56677bfec61a8a2dfce586696d9c6.jar" />
+    </item>
+
+</items>

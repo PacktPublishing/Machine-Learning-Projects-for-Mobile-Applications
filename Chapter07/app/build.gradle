@@ -1,0 +1,97 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion '27.0.3'
+
+    defaultConfig {
+        applicationId "com.mlmobileapps.faceswapper"
+        minSdkVersion 21
+        targetSdkVersion 27
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    testOptions {
+        unitTests.returnDefaultValues = true
+    }
+
+    // Splits into several APKs depending on hardware setup
+    splits {
+        abi {
+            enable true
+            reset()
+            include "armeabi-v7a"
+            universalApk false
+        }
+    }
+
+//    ndk {
+//        abiFilters 'armeabi-v7a', 'arm64-v8a', 'x86'
+//    }
+
+    // Remove block comment when signing
+
+//    project.ext.versionCodes = ['armeabi-v7a': 2]
+//
+//    android.applicationVariants.all { variant ->
+//        variant.outputs.each { output ->
+//            output.versionCodeOverride =
+//                    project.ext.versionCodes.get(output.getFilter(
+//                            com.android.build.OutputFile.ABI), 0) * 10000000 + android.defaultConfig.versionCode
+//        }
+//    }
+
+}
+
+
+
+buildscript {
+    repositories {
+        mavenCentral()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.google.gms:google-services:3.1.1'
+        classpath 'com.android.tools.build:gradle:2.3.3'
+        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.4'
+    }
+}
+
+repositories {
+    mavenCentral()
+    mavenLocal()
+    maven {
+        url 'https://maven.google.com/'
+        name 'Google'
+    }
+}
+
+apply plugin: 'com.neenbedankt.android-apt'
+def AAVersion = '4.0.0'
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+   // apt "org.androidannotations:androidannotations:$AAVersion"
+   // compile "org.androidannotations:androidannotations-api:$AAVersion"
+    compile project(':openCVLibrary310')
+
+    //noinspection GradleCompatible
+    compile 'com.android.support:design:25.3.1'
+    compile 'com.google.android.gms:play-services:11.0.4'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+
+    compile 'com.android.support:multidex:1.0.1'
+    //testCompile 'junit:junit:4.12'
+    //testCompile 'org.mockito:mockito-core:1.10.19'
+}
+
+apply plugin: 'com.android.application'
+
+apply plugin: 'com.google.gms.google-services'
