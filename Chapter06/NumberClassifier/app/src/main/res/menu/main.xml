@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/normal"
+        app:showAsAction="never"
+        android:title="Normal" />
+
+    <item
+        android:id="@+id/PGD"
+        app:showAsAction="never"
+        android:title="PGD" />
+
+    <item
+        android:id="@+id/CleverHans"
+        app:showAsAction="never"
+        android:title="Robust" />
+
+    <item
+        android:id="@+id/clear"
+        app:showAsAction="never"
+        android:title="Clear" />
+
+</menu>
