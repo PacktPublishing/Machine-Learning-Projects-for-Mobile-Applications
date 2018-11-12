@@ -29,10 +29,9 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-if (test expression)
-{
-  Statement upon condition is true
-}
+def estimate_house_price(sqft, location):
+price = < DO MAGIC HERE >
+return price
 ```
 
 **Following is what you need for this book:**
@@ -69,7 +68,7 @@ Click on the following link to see the Code in Action:
 
 * Machine Learning with Swift [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-swift?utm_source=github&utm_medium=repository&utm_campaign=9781787121515) [[Amazon]](https://www.amazon.com/dp/1788293770)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Karthikeyan NG**
 is the Head of Engineering and Technology at the Indian lifestyle and
 fashion retail brand. He served as a software engineer at Symantec Corporation and has
