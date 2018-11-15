@@ -41,18 +41,18 @@ With the following software and hardware list you can run all code files present
 
 ### Software and Hardware List
 
-| Chapter  | Software required                   | OS required                                            |
-| -------- | ------------------------------------| -------------------------------------------------------|
-| 1        |Tensorflow                           | Ubuntu 16.04 or later Windows 7 or later               |
-|          |                                     | macOS 10.12.6 (Sierra) or later (no GPU support)       |
-|          |                                     | Raspbian 9.0 or later                                  |
-| 2        | Android Studio                      | Microsoft Windows 7/8/10 (32-bit or 64-bit),           |
-|          |                                     |  64-bit required for native debugging                  |
-|          |                                     |  Mac OS X 10.10 (Yosemite) or higher, up to 10.13      |
-|          |                                     |  (macOS High Sierra) GNOME or KDE desktop              |
-|          |                                     |  Linux (64 bit capable of running 32-bit applications) |
-|          |                                     |  (GNU C Library (glibc)2.19+)                          |
-| 3-8      | Xcode                               | macOS High Sierra                                      |
+| Chapter    | Software required                   | OS required                                            |
+| ---------  | ------------------------------------| -------------------------------------------------------|
+| 1 -8       |Tensorflow                           | Ubuntu 16.04 or later Windows 7 or later               |
+|            |                                     | macOS 10.12.6 (Sierra) or later (no GPU support)       |
+|            |                                     | Raspbian 9.0 or later                                  |
+|            | Android Studio                      | Microsoft Windows 7/8/10 (32-bit or 64-bit),           |
+|            |                                     |  64-bit required for native debugging                  |
+|            |                                     |  Mac OS X 10.10 (Yosemite) or higher, up to 10.13      |
+|            |                                     |  (macOS High Sierra) GNOME or KDE desktop              |
+|            |                                     |  Linux (64 bit capable of running 32-bit applications) |
+|            |                                     |  (GNU C Library (glibc)2.19+)                          |
+|            | Xcode                               | macOS High Sierra                                      |
  
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [https://www.packtpub.com/sites/default/files/downloads/9781788994590_ColorImages.pdf].
