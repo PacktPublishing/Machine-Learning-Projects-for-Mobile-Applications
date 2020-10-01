@@ -8,7 +8,7 @@ This is the code repository for [Machine Learning Projects for Mobile Applicatio
 **Build Android and iOS applications using TensorFlow Lite and Core ML**
 
 ## What is this book about?
-Machine learning is a technique that focuses on developing computer programs that can be modified when exposed to new data. We can make use of it for our mobile applications and this book will show you how to do so.
+Machine learning is a technique that focuses on developing computer programs that can be modified when exposed to new data.It is seen as a subset of Artificial Intelligence. We can make use of it for our mobile applications and this book will show you how to do so.
 
 
 This book covers the following exciting features:
